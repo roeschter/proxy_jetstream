@@ -1,3 +1,8 @@
+
+# Projects
+
+## Fake domain to consumer prefix proxy
+
 The proxy listens on a fake JetStream API namespace of the form
 * $JS.<fakeDomain>.API.CONSUMER.<op>.<stream>.<consumer>
 
